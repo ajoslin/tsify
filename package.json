@@ -31,7 +31,7 @@
     "convert-source-map": "^1.1.0",
     "through2": "^2.0.0",
     "tsconfig": "^2.2.0",
-    "typescript": "~1.8.7"
+    "typescript": "~1.9.0-dev.20160611-1.0"
   },
   "devDependencies": {
     "babel-preset-react": "^6.5.0",
